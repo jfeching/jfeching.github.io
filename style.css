@@ -1,0 +1,26 @@
+
+#intro{
+    color: #c7b8b8e0;
+	padding: 8rem 4rem 6rem 4rem ;
+
+    background-color:rgb(34, 31, 31);
+    text-align: center;
+    color:aliceblue;
+}
+
+#main{
+    background-color: #ffffff;
+
+}
+
+fieldset {
+    margin-top: 10px;
+    background-color: #eeeeee;
+    
+  }
+  
+  legend {
+    background-color: gray;
+    color: white;
+    padding: 5px 10px;
+  }
